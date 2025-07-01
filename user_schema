@@ -1,0 +1,7 @@
+digraph ER {
+	rankdir=LR
+	User [label="
+    <<TABLE BORDER=\"1\" CELLBORDER=\"1\" CELLSPACING=\"0\">
+    <TR><TD COLSPAN=\"2\"><B>User</B></TD></TR>
+    <TR><TD>user_id</TD><TD>PK</TD></TR><TR><TD>name</TD><TD></TD></TR><TR><TD>email</TD><TD></TD></TR><TR><TD>user_name</TD><TD></TD></TR><TR><TD>password</TD><TD></TD></TR></TABLE>>"]
+}

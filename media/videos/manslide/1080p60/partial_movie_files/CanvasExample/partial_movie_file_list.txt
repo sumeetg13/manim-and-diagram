@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/3977891868_2878304651_223132457.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_3798746284_1977641880.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_2240210012_3167446515.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_2827308748_1886491903.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_282458824_1962193541.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_3314048288_1713089412.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_2819905765_146159814.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_3188107224_3745784614.mp4'
+file 'file:C:/Users/pc/Desktop/dbgram-maker/media/videos/manslide/1080p60/partial_movie_files/CanvasExample/2852726489_3327490004_2358810818.mp4'
